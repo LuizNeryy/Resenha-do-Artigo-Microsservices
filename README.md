@@ -1,1 +1,3 @@
 # Resenha-do-Artigo-Microsservices
+
+Este repositório contém uma resenha detalhada do artigo de Martin Fowler sobre a arquitetura de microsserviços. Os microsserviços são uma abordagem para desenvolver grandes sistemas como um conjunto de serviços menores e independentes, que se comunicam via APIs. Cada serviço é responsável por uma funcionalidade específica, o que facilita a escalabilidade, flexibilidade e autonomia das equipes de desenvolvimento. No entanto, essa arquitetura também traz desafios operacionais, como o gerenciamento de dados distribuídos e a complexidade de comunicação entre serviços.
